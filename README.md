@@ -9,15 +9,9 @@
 
 ### :fire: Skills
 
-##### Web Front-end
-
 ![React](https://img.shields.io/badge/React-49d6f9?style=flat-square&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) :heavy_plus_sign: ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
 
-##### Back-end
-
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-##### App
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
