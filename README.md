@@ -7,6 +7,7 @@
 | Education | Department of Software | 2019.03 ~  | Sejong University |
 |  Company  |  Front-end Development | 2020.07 ~ 2021.06 |     Whiteblock    |
 |  Military  |  Signal specialty | 2021.07 ~ 2023.01 |  army  |
+|  Military  |  Undergraduate research assistant | 2023.07 ~ |  DFPL  |
 
 ### :fire: Skills
 
