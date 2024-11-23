@@ -4,7 +4,7 @@
 
 |    Type   |          Name          |    Date    |    Organization   |
 |:---------:|:----------------------:|:----------:|:-----------------:|
-| Education | Department of Software | 2019.03 ~  | Sejong University |
+| Education | Department of Software | 2019.03 ~ 2025.02  | Sejong University |
 |  Company  |  Front-end Development | 2020.07 ~ 2021.06 |     Whiteblock    |
 |  Military  |  Signal specialty | 2021.07 ~ 2023.01 |  army  |
 |  Lab  |  Undergraduate research assistant | 2023.07 ~ 2024-08 |  DFPL  |
